@@ -209,7 +209,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	margin-bottom: 40px;
 }
 header .intro-text {
-	padding-top: 275px;
+	padding-top: 200px;
 	padding-bottom: 250px;
 	text-align: center;
 }
@@ -246,7 +246,6 @@ header .intro-text {
 /* About Section */
 #about {
 	padding: 120px 0;
-	background: #f6f6f6;
 }
 #about h3 {
 	font-size: 22px;
@@ -273,6 +272,7 @@ header .intro-text {
 /* Services Section */
 #services {
 	padding: 120px 0;
+	background: #f6f6f6;
 }
 #services .service-media {
 	margin: 10px;
@@ -513,7 +513,7 @@ color: #777;
 color: #777;
 }
 #contact .contact-info {
-	margin-top: 60px;
+	/* margin-top: 60px; */
 	padding-top: 20px;
 }
 #contact .contact-item {
