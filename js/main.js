@@ -102,7 +102,7 @@ function main() {
 	$(window).load(function() {
 	new WOW().init();
 	//smoothScroll
-	smoothScroll.init();
+	//smoothScroll.init();
 		});
 
 }());
