@@ -17,6 +17,10 @@ function main() {
         }
       });
 
+      $('.artigo').on('click', function() {
+        $('#artigoModal').modal('show');
+      });
+
 	
     // Show Menu on Book
     $(window).bind('scroll', function() {

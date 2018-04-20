@@ -31,12 +31,16 @@ p.intro {
 	line-height: 24px;
 }
 a {
-	color: #1E7A46;
+	color: #0090f1;
 	font-weight: 400;
 }
 a:hover, a:focus {
 	text-decoration: none;
 	color: #222;
+}
+.artigo {
+	color: #0090f1;
+	font-weight: bold;
 }
 ul, ol {
 	list-style: none;
